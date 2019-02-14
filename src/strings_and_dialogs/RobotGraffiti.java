@@ -7,11 +7,11 @@ public class RobotGraffiti {
 		Robot shuvi = new Robot();
 		shuvi.penDown();
 		shuvi.setSpeed(100);
-		shuvi.move(-150);
+		shuvAi.move(-150);
 		shuvi.turn(-90);
 		shuvi.move(50);
 		shuvi.turn(90);
 		shuvi.move(50);
 		shuvi.hide();
-	}}
+	}}a
 	
