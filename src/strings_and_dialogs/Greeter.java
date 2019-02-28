@@ -4,8 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Greeter {
 	public static void main(String[] args) {
-		String message = JOptionPaneA.showInputDialog( "Whats your name?");
+		String message = JOptionPane.showInputDialog( "Whats your name?");
 		System.out.println(message); 
 		JOptionPane.showMessageDialog(null,"Hi " + message);
 }}
-aA
